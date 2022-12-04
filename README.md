@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arsh-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsh prajapati" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vwp films" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vwp films" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arsh-prajapati-4a8a68252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsh prajapati" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vwpfilms8899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vwp films" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
