@@ -1,31 +1,31 @@
-<h1 align="center">Hi 👋, I'm Aadarsh Prajapati from Nepal</h1>
-<h3 align="center">Passionate about software, web and mobileapp development I am dedicated to continuous learning and growth in order to build robust and innovative solutions.</h3>
+<h1 align="center">Call me , Techy Panda </h1>
+<h3 align="center"> Learning about Advanced backend engineering, System Design and high performance in scalable applications</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshprajapati777&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshprajapati777" /> </p>
 
-- 🔭 I’m currently working on **Personal project(Mobile App)**
+- 🔭 I’m currently working on **My personal Project**
 
-- 🌱 I’m currently learning **Node js,Mongo DB, Express and Socket io**
+- 🌱 I’m currently learning **NextJS-14, Rust, Microservice Architecture, webRTC**
 
-- 👯 I’m contributing to **react-native-elements**
+- 👯 I’m attending **, Harkirat Singh Sir Cohort 2.0**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Aadarshp777](https://hashnode.com/@Aadarshp777)
 
-- 💬 Ask me about **react js, react native, git, python, java basics, javascript**
+- 💬 Ask me about **React JS, Next JS, MonoRepo, Docker, Postgress, Redis, PubSub, messaging Queues, webRTC, Normalization, Swagger, Unit testing using JEST and VITEST,gRPC, Zod**
 
-- 📫 How to reach me **aadarsh8960183073@gmail.com**
+- 📫 How to reach me **aadarsh9811594152@gmail.com**
 
-- ⚡ Fun fact **feeling sleepy,take a sting!**
+- ⚡ Fun fact **look at the date my highest commit streak**
 
 - - 👯 My portfolio [https://aadarsh-prajapati.netlify.app/](https://aadarsh-prajapati.netlify.app/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aadarsh prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh prajapati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aadarsh prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarsh prajapati" height="30" width="40" /></a>
+<a href="[https://twitter.com/AadarshP16073" target="blank"](https://x.com/AadarshP16073?t=beXldZmdtrLSqucTNnyODg&s=09)><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh prajapati" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aadarshpraj](https://www.linkedin.com/in/aadarsh-prajapati-4a8a68252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarsh prajapati" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vwp films" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vwp films" height="30" width="40" /></a>
 </p>
 
