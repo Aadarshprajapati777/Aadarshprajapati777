@@ -1,5 +1,5 @@
 <h1 align="center">Call me, Techy Panda</h1>
-<h3 align="center">Learning about Advanced backend engineering, System Design and high performance in scalable applications</h3>
+<h3 align="center">Learning the core principles to build scalable and high performance systems with best practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshprajapati777&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshprajapati777" /> </p>
 
