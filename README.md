@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React JS, Next JS, MonoRepo, Docker, Postgress, Redis, PubSub, messaging Queues, webRTC, Normalization, Swagger, Unit testing using JEST and VITEST,gRPC, Zod, Java, Python, DSA, Rust, Filmmaking**
 
-- 📫 How to reach me **aadarsh9811594152@gmail.com**
+- 📫 How to reach me **geekaadarsh.dev@gmail.com**
 
 - ⚡ Fun fact **look at the date my highest commit streak**
 
