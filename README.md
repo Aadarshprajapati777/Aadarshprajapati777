@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **My Product**
 
-- 👨‍💻 All of my projects are available at [https://aadarsh-prajapati.netlify.app/](https://aadarsh-prajapati.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.aadarshprajapati.info//](https://www.aadarshprajapati.info/)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Aadarshp777](https://hashnode.com/@Aadarshp777)
 
