@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarshprajapati777" alt="aadarshprajapati777" /></a> </p>
 
-- 🔭 I’m currently working on **My Personal StartUp Idea**
 
 - I’m currently learning **NextJS-14, Rust, Microservice Architecture, webRTC**
 
