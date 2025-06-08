@@ -8,9 +8,6 @@
 
 - I’m currently learning **NextJS-14, Rust, Microservice Architecture, webRTC**
 
-- I am currently attending **Harkirat Singh Sir's Cohort 2.0**
-
-- 🤝 I’m looking for help with **My Product**
 
 - 👨‍💻 All of my projects are available at [https://www.aadarshprajapati.info//](https://www.aadarshprajapati.info/)
 
